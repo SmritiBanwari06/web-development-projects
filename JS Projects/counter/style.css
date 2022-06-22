@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+.col-md-6{
+    text-align: center;
+    border: 7px solid black;
+    margin-top: 150px !important;
+    padding: 20px;
+}
+.row{
+    justify-content: center;
+}
+button{
+    margin: 20px !important;
+    border: 2px solid black !important;
+}
+h1{
+    font-weight: bolder !important;
+    margin: 20px !important;
+}
